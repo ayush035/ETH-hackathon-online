@@ -1,7 +1,6 @@
 
 import './App.css';
 import Navbar from './Components/Navbar'
-import UnstoppableDomain from './Components/UnstoppableDomain';
 function App() {
   return (
 

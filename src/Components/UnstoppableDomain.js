@@ -36,8 +36,8 @@ function UnstoppableDomain() {
 
     return (
         <>
-            <Button color="black" onClick={log}>
-                {Uauth != null ? Uauth["sub"] : "Login with Unstoppable Domain"}
+            <Button className="text-white" onClick={log} >
+                {Uauth != null ? Uauth["sub"] : "Login with Unstoppable"}
             </Button>
         </>
     )

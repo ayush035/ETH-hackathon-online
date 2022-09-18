@@ -30,11 +30,10 @@ export default function Navbar (){
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link"><font color ='white' size="4">My Account</font></a>
+          <a className="nav-link" href="#"><font color ='white' size="4">My Account</font></a>
         </li>
       </ul>
       <UnstoppableDomain/>
-     
         <button className="btn btn-outline-light" type="submit">Login</button>
             
     </div>
